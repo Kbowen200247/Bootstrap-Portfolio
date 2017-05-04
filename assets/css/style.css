@@ -83,7 +83,7 @@ nav a {
     padding-left: 15px;
     line-height: 18px; 
 }
-/*
+
 nav a:first-child {
     border-left: 0 none;
 }
@@ -110,7 +110,9 @@ nav a:active {
     padding-top: 20px; 
 }
 
-
+.caption {
+    padding-left: 30px;
+}
 #main-article {
     background-color: #fff;
     border: 1px solid #ccc;
@@ -239,7 +241,7 @@ footer {
 }
 
 /*MEDIA QUERIES*/
-/*
+
 @media screen and (max-width: 980px){
     .containter {
         width: 70%;
